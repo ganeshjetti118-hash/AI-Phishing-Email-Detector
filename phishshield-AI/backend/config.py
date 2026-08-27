@@ -3,7 +3,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = BASE_DIR.parent
-DATASET_DIR = PROJECT_ROOT / "phishshield-AI" /"datasets"
+DATASET_DIR = PROJECT_ROOT / "datasets"
 
 MODEL_DIR = BASE_DIR / "models"
 
