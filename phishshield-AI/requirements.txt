@@ -7,3 +7,4 @@ joblib>=1.4.0
 plotly>=5.22.0
 requests>=2.32.0
 pydantic>=2.7.0
+plotly>=5.22.0
